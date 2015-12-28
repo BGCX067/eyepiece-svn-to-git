@@ -1,0 +1,10 @@
+[Translation]
+File=eyepiece-nct
+Context=PDF
+
+[Desktop Entry]
+Comment[]=PDF Viewer
+Exec=eyepiece
+Icon=eyepiece/eyepiece
+Type=Application
+Name[]=Eyepiece
